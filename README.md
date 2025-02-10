@@ -14,7 +14,7 @@ The **Domain Name Checker** is a powerful Python script that helps users generat
 ## 🛠️ Setup & Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/domain-name-checker.git
+   git clone https://github.com/theamitsiingh/Domain-Name-Checker.git
    cd domain-name-checker
    ```
 2. Install dependencies:
